@@ -17,6 +17,8 @@ docker-compose up
 
 - Rename all the `.env.example` to `.env`.
 
+- Create a `.env` file in the root of the directory.
+
 - Visit `http://localhost:3000/`
 
 ### ⚒️ Linting
