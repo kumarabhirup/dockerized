@@ -1,8 +1,7 @@
-# 🏄 propagateAt
+# 🏄 dockerized
 
 [![emoji-log](https://cdn.jsdelivr.net/gh/ahmadawais/stuff@ca978741836412b5e33ce8561f5f95c933177067/emoji-log/flat.svg)](https://github.com/KumarAbhirup/Emoji-Log/)
 [![Twitter](https://img.shields.io/twitter/follow/kumar_abhirup.svg?style=social&label=@kumar_abhirup)](https://twitter.com/kumar_abhirup/)
-[![Twitter](https://img.shields.io/twitter/follow/yashguptaz.svg?style=social&label=@yashguptaz)](https://twitter.com/yashguptaz/)
 
 ## 📦 Setup
 
@@ -11,8 +10,8 @@
 - Run
 
 ```bash
-git clone https://github.com/KumarAbhirup/propagateAt propagateAt # to clone project
-cd propagateAt # enter in the project
+git clone https://github.com/KumarAbhirup/dockerized dockerized # to clone project
+cd dockerized # enter in the project
 docker-compose up
 ```
 
@@ -39,8 +38,8 @@ docker-compose up
 
 ## 📝 License
 
-**Closed Source**
+**MIT &copy; Kumar Abhirup**
 
-Created by [Kumar Abhirup](https://kumar.now.sh) 👉 [![Twitter](https://img.shields.io/twitter/follow/kumar_abhirup.svg?style=social&label=@kumar_abhirup)](https://twitter.com/kumar_abhirup/) and [Yash Gupta](https://yashguptaz.com/) 👉 [![Twitter](https://img.shields.io/twitter/follow/yashguptaz.svg?style=social&label=@yashguptaz)](https://twitter.com/yashguptaz/).
+Created by [Kumar Abhirup](https://kumar.now.sh) 👉 [![Twitter](https://img.shields.io/twitter/follow/kumar_abhirup.svg?style=social&label=@kumar_abhirup)](https://twitter.com/kumar_abhirup/).
 
 Peace ✌️
