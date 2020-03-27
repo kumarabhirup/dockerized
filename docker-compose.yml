@@ -8,6 +8,8 @@ services:
       context: packages/landingpage
       dockerfile: Dockerfile
     volumes:
-      - ./packages/landingpage:/app
-      - /app/node_modules
-      - /app/.next
+      - ./packages/landingpage:/usr/src/app
+      - /usr/src/app/node_modules
+      - /usr/src/app/.next
+    env_file:
+      - .env

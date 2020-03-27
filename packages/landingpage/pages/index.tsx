@@ -1,5 +1,5 @@
 import React from "react"
 
-const IndexPage = () => <h1>Hello Next.js</h1>
+const IndexPage = () => <h1>Welcome to Propagate!</h1>
 
 export default IndexPage
